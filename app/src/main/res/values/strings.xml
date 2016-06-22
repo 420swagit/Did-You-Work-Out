@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Did You Work Out</string>
+    <string name="exerciseName">Exercise name</string>
 
 </resources>
