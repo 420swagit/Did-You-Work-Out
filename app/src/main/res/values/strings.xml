@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Did You Work Out</string>
     <string name="exerciseName">Exercise name</string>
+    <string name="exerciseQuantity">Quantity</string>
+    <string name="title_activity_add_reminder">add_reminder</string>
 
 </resources>
