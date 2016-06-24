@@ -14,12 +14,18 @@
     <EditText
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:hint="Add exercise name"/>
+        android:hint="Add exercise name"
+        android:id = "@+id/inputName"/>
 
     <EditText
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:hint="Add quantity"
-        android:inputType="number"/>
+        android:inputType="number"
+        android:id="@+id/inputQuantity"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add"/>
 
 </LinearLayout>
