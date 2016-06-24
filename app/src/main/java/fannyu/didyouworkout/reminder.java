@@ -13,9 +13,5 @@ public class reminder extends AppCompatActivity {
         setContentView(R.layout.activity_reminder);
     }
 
-    public void onClick(View view)
-    {
-        Intent intent = new Intent(this,reminder.class);
-        startActivity(intent);
-    }
+
 }
